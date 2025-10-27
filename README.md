@@ -255,14 +255,10 @@ VITE_API_BASE_URL=http://localhost:3000/api
 MIT
 
 ## 👥 Contributors
-
-This is a project assignment demonstrating full-stack development skills with modern web technologies.
+DO NOT CONTRIBUTE TO THIS PROJECT.
 
 ---
 
 **Built with ❤️ using React, NestJS, MongoDB, and TypeScript**
 
-# verbose-octo-fiesta
-# twitter-fun
-# twitter-fun
 # twitter-fun
